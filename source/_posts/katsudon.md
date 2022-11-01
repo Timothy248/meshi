@@ -7,7 +7,7 @@ tags:
 categories:
   - [asiatisch, japanisch]
 date: 2022-11-01 17:21:05
-description: Donburi mit knusprigem Schnitzel 
+description: Donburi mit knusprigem Schnitzel (Tonkatsu)
 time:
 ---
 

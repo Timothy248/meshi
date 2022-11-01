@@ -13,7 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://timothy248.github.io/meshi
+url: https://chef.benker.li
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -40,7 +40,7 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-relative_link: false
+relative_link: true
 future: true
 highlight:
   enable: true
@@ -107,6 +107,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/timothy248/meshi
+  repo: https://github.com/timothy248/meshi.git
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
