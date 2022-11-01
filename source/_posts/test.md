@@ -1,11 +1,9 @@
 ---
-title: test
-date: 2022-11-01 11:38:15
-description: Tasty dinner for two, best for hot summer days
+title: Butter Chicken
+date: 2022-11-01
+description: Sehr deftig, am besten mit Reis 
 categories: dinner
 tags: 
 - quick
 - one-pot
 ---
-
-hellooo
