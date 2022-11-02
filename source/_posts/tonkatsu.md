@@ -2,6 +2,7 @@
 title: Tonkatsu
 tags:
   - fleisch
+  - todo
 categories:
   - [asiatisch, japanisch]
 date: 2022-11-02 20:57:11
