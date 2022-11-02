@@ -6,10 +6,17 @@
   <% if (index){ %>
     <h1 itemprop="name">
       <a class="<%= class_name %>" href="<%- url_for(post.path) %>"><%= post.title %></a>
+      <% if (post.time){ %>
+        <pre class="<%= class_name %>" style="display: inline-block"> # <%- post.time %></pre>
+      <% } %>
     </h1>
   <% } else { %>
     <h1 class="<%= class_name %>" itemprop="headline name">
       <%= post.title %>
     </h1>
+    <% if (post.time){ %>
+      <br>
+      <p>Zubereitungszeit: <%- post.time %></p>
+    <% } %>
   <% } %>
 <% } %>

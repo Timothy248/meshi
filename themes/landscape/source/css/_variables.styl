@@ -33,10 +33,10 @@ line-height = 1.6em
 line-height-title = 1.1em
 
 // Header
-logo-size = 40px
+logo-size = 50px
 subtitle-size = 16px
 banner-height = 300px
-banner-url = hexo-config("banner")
+banner-url = hexo-config("banner") + math(math(0, 'random')*(2 - 1 + 1) + 1, 'floor') + ".jpg"
 
 sidebar = hexo-config("sidebar")
 
