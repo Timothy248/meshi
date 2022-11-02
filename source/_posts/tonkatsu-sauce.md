@@ -3,7 +3,7 @@ title: Tonkatsu Sauce
 tags:
   - sauce
 categories:
-  - [japanisch, asiatisch]
+  - [asiatisch, japanisch]
 date: 2022-11-02 21:43:31
 description: Vereinfachte Tonkatsu Sauce
 time:
