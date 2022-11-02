@@ -2,23 +2,26 @@
 title: Tonkatsu Sauce
 tags:
   - sauce
+  - todo
 categories:
-  - [asiatisch, japanisch]
-date: 2022-11-02 21:20:02
-description: Salzige Sauce am besten mit Tonkatsu
-time: 5min
+  - [japanisch, asiatisch]
+date: 2022-11-02 21:43:31
+description: Salzige Sauce, am besten mit Tonkatsu
+time:
 ---
 
-### Zutaten
+## # Zutaten
 | Name | Menge |
 | ----------- | ----------- |
 |  |  |
 
+<br>
 
-### Anmerkungen
+## # Anmerkungen
 
+<br>
 
-### Zubereitung
+## # Zubereitung
 1. 
 
 

@@ -9,7 +9,9 @@ description: Paniert und fritiertes Filet, ähnlich wie Wiener Schnitzel
 time: 30min
 ---
 
-### Zutaten (2 Portionen)
+## # Zutaten (2 Portionen)
+
+### Für Tankotsu
 | Name | Menge |
 | ----------- | ----------- |
 | Schweine Filet oder Rücken | 2 Stück à 100g & 1cm dick |
@@ -19,14 +21,16 @@ time: 30min
 | Geschmacksneutrales Öl | 750ml (ca. 5cm Öl in der Pfanne) |
 | Salz / Pfeffer |  |
 
-**Für Sesam Tonkatsu Sauce**
+### Für Sesam Tonkatsu Sauce
 | Name | Menge |
 | ----------- | ----------- |
 | Geröstete Weisse Sesam Samen | 1 Esslöffel |
 | Geröstet Schwarze Sesam Samen | 1 Esslöffel |
 | {% post_link tonkatsu-sauce %} | 4 Esslöffel |
 
-### Anmerkungen
+<br>
+
+## # Anmerkungen
 - Sehr gut mit frischem Grünkohl, Japanischer Gurke und japanischem Sesam Dressing.
 
 - Fleisch einschneiden, damit es beim fritieren flach bleibt 
@@ -37,8 +41,9 @@ time: 30min
 
 - Panko etwas anfeuchten vor dem Panieren
 
+<br>
 
-### Zubereitung
+## # Zubereitung
 1. 
 
 
