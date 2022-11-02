@@ -6,7 +6,7 @@ tags:
 categories:
   - [asiatisch, japanisch]
 date: 2022-11-02 20:57:11
-description: Paniert und fritiertes Filet, ähnlich wie Wiener Schnitzel
+description: Paniert und fritiertes schweine Filet, ähnlich wie Wiener Schnitzel
 time: 30min
 ---
 
